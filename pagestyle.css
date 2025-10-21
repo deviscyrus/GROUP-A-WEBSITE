@@ -1,0 +1,26 @@
+body{
+    background-color:bisque;
+    color:rgb(10, 2, 2);
+
+}
+.headings{
+    color:rgb(81, 81, 243);
+}
+ul>li{
+    color:rgb(15, 15, 82);
+    
+}
+.subheadings{
+    color:rgb(24, 101, 245);
+    font-family:'Courier New', Courier, monospace;
+}
+nav>ul>li{
+    text-decoration: none;
+    list-style-type: inline;
+    display:inline;
+    background-color:rgb(171, 171, 241);
+    color:black;
+    border-radius:5px;
+    font-size:larger;
+
+}
