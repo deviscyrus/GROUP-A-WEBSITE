@@ -24,3 +24,11 @@ nav>ul>li{
     font-size:larger;
 
 }
+nav>ul>li:hover{
+    background-color:lightskyblue;
+}
+.companyname{
+    font-size:50px;
+    color:rgb(8, 8, 112);
+
+}

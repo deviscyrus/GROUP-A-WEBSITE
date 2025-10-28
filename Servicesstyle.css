@@ -7,5 +7,22 @@ body{
     background-color: rgb(118, 212, 212);
 
 }
+.site-logo{
+    height: 80px;
+    width:auto;
+    vertical-align: middle; 
+    display:inline-block;
+}
+.logo-link{
+    text-decoration:none;
+}
+@media (max-width : 600px){
+    .site-logo{
+        height:50px;
+    }
+    .companyname{
+        font-size: 1.2rem;
+    }
+}
 
 
